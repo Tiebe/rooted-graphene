@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/Tiebe/rooted-graphene/releases/download/2025081400/shiba-2025081400-237ad7f-magisk-v27.2-kitsune-4.zip",
-    "location_csig": "https://github.com/Tiebe/rooted-graphene/releases/download/2025081400/shiba-2025081400-237ad7f-magisk-v27.2-kitsune-4.zip.csig"
+    "location_ota": "https://github.com/Tiebe/rooted-graphene/releases/download/2025090300/shiba-2025090300-237ad7f-magisk-v27.2-kitsune-4.zip",
+    "location_csig": "https://github.com/Tiebe/rooted-graphene/releases/download/2025090300/shiba-2025090300-237ad7f-magisk-v27.2-kitsune-4.zip.csig"
   }
 }
