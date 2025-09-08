@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/Tiebe/rooted-graphene/releases/download/2025090300/shiba-2025090300-237ad7f-rootless.zip",
-    "location_csig": "https://github.com/Tiebe/rooted-graphene/releases/download/2025090300/shiba-2025090300-237ad7f-rootless.zip.csig"
+    "location_ota": "https://github.com/Tiebe/rooted-graphene/releases/download/2025090600/shiba-2025090600-237ad7f-rootless.zip",
+    "location_csig": "https://github.com/Tiebe/rooted-graphene/releases/download/2025090600/shiba-2025090600-237ad7f-rootless.zip.csig"
   }
 }
